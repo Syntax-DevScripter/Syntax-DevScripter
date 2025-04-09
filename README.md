@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syntax-devscripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syntax-devscripter" height="30" width="40" /></a>
-<a href="https://fb.com/syntaxdevscripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syntaxdevscripter" height="30" width="40" /></a>
-<a href="https://instagram.com/syntax_devscripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syntax_devscripter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theneuroticphilosopher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syntax-devscripter" height="30" width="40" /></a>
+<a href="https://fb.com/syntaxdevscripter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syntaxdevscripter" height="30" width="40" /></a>
+<a href="https://instagram.com/neurotic_philosopher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syntax_devscripter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
